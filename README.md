@@ -2,9 +2,6 @@
 
 ![Captura de Tela (13)](https://github.com/Gui-GitHub/FrasesDesafio/assets/146478427/656c1c90-2687-428c-bb20-f6e58f3226aa)
 
-Contribuindo
-Contribuições são sempre bem-vindas! Se você deseja contribuir para este projeto, por favor, siga estas etapas:
-
 # Descrição do Projeto
 Este projeto é uma aplicação Java que apresenta frases aleatórias de filmes famosos. Utiliza Spring e uma API para o back-end, enquanto o front-end foi desenvolvido com base em um curso da Alura.
 
